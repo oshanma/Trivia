@@ -1,43 +1,55 @@
-#  TriviaGame!
+# Project 3 - *Trivia*
 
-It uses Open trivia DB's API to request questions.
+Submitted by: **Oshan Maharjan**
 
-<p float="left">
-  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.24.21.png" height=600px/>
-  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.24.33.png" height=600px/>
+**OpenTrivia** is an iOS quiz application developed using Swift that leverages the Open Trivia Database (Open Trivia DB) API to fetch a wide array of quiz questions.
 
-  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.25.19.png" height=600px/>
-  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.25.15.png" height=600px/>
-  <img src="/readme-assets/Simulator Screen Shot - iPhone 11 - 2020-07-13 at 20.27.21.png" height=600px/>
-</p>
+Time spent: **48** hours spent in total
 
-## Features:
+## Required Features
 
-- Thousands of questions that are fetched from the API.
+The following **required** functionality is completed:
 
-- Customisable settings:
-- Category of questions
-- Number of Questions
-- Type of Questions - Multiple choice or True and False
-- Selectable difficulty
+- [x] User can view the current question and 4 different answers
+- [x] User can view the next question after tapping an answer
+- [x] User can answer at least 3 different questions
 
-- Buttons light up Green or Red when pressed to indicate that the answer was Right or Wrong
 
-- Progress bar
+The following **optional** features are implemented:
 
-## TODO:
+- [x] User can see how many questions they got correct after answering all questions
+- [x] User should be able to restart the game after they've finished answering all questions
 
-- Still some occasional bugs that prevent answers from being selected / allowing the user to progress.
-- Ive fixed most of these but there are still some that remain.
+The following **addition
 
-- Clean the project because it got messy in the middle.
 
-- Fix a couple of bits to ensure that it does comply fully with MVC.
 
-## What I learned:
+al** features are implemented:
 
-- I learnt alot about using segues and unwinding segues
+- [x] integrate API for quiz 
 
-- My knowledge of MVC and the Delegate design patterns has improved.
+## Video Walkthrough
 
-- ... that I need to improve my UI / UX design lmao. 🤷‍♂️
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+
+https://github.com/user-attachments/assets/da21b4a2-875d-487b-abda-5a5791ad5018
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2025] [Oshan Maharjan]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
